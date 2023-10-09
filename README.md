@@ -10,7 +10,7 @@ Tenho 21 anos, sou bahiano e atualmente estou cursando Análise e Desenvolviment
 
 - 🌱 Estudando e aprimorando minhas habilidades em React DOM, React Native, PHP e Laravel.
 - 📫 Meu e-mail: contato@joseantonion.com.br ou ja2915588@gmail.com
-- 📫 Meu WhatsApp: (77) 9 9129-2464
+- 📞 WhatsApp: (77) 9 9129-2464
 
 ### ⚡ Tecnologias:
 
