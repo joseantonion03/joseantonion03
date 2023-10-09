@@ -9,7 +9,7 @@
 Tenho 21 anos, sou bahiano e atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas
 
 - 🌱 Estudando e aprimorando minhas habilidades em React DOM, React Native, PHP e Laravel.
-- 📫 Meu e-mail: ja2915588@gmail.com
+- 📫 Meu e-mail: contato@joseantonion.com.br ou ja2915588@gmail.com
 
 ### ⚡ Tecnologias:
 
