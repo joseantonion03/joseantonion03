@@ -6,10 +6,10 @@
 
 ### 🌻 Sobre mim:
 
-Tenho 21 anos, sou bahiano e atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas
+Desenvolvedor Web com experiência em criação de sistemas web e mobile. Formado em Informática para Internet e cursando Análise e Desenvolvimento de Sistemas. 
 
-- 🌱 Estudando e aprimorando minhas habilidades em React DOM, React Native, PHP e Laravel.
-- 📫 Meu e-mail: contato@joseantonion.com.br ou ja2915588@gmail.com
+- 🌱 Estudando e aprimorando minhas habilidades em ReactJS, React Native, NodeJS e PHP.
+- 📫 Meu e-mail: devjoseantonio@gmail.com
 - 📞 WhatsApp: (77) 9 9129-2464
 
 ### ⚡ Tecnologias:
@@ -17,7 +17,7 @@ Tenho 21 anos, sou bahiano e atualmente estou cursando Análise e Desenvolviment
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,vite,react,jquery,sass,styledcomponents,bootstrap,tailwind,materialui,php,laravel,wordpress,mysql,sqlite,firebase,figma,ps,git,github,vercel)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,vite,react,jquery,ts,sass,styledcomponents,bootstrap,tailwind,materialui,php,nodejs,laravel,wordpress,mysql,sqlite,postgres,firebase,figma,ps,git,github,vercel,redis)](https://skillicons.dev)
 
 
 ### 📈 Minhas estatísticas
@@ -32,6 +32,6 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 <div>
   <a href="https://www.linkedin.com/in/joseantonion/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5577991292464" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ja2915588@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:devjoseantonio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jose.antonion/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
